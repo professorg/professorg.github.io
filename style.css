@@ -2,7 +2,7 @@
 
 body
 {
-	background: #FFFFFF;
+	background-image:url(https://afremov.com/image.php?type=P&id=18106);
 }
 
 a:link
@@ -10,13 +10,21 @@ a:link
 	font-weight:normal;
 	color:Navy;
 }
+
 a:visited
 {
 	font-weight:normal;
 	color: Black;
 }
+
 a:hover
 {
 	font-weight:Italic;
 	color: #00aa00;
+}
+
+p
+{
+	color:White;
+}
 }
