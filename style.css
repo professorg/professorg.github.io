@@ -43,4 +43,6 @@ p
 .nav li a {
     display: block;
     padding: 8px;
+    color: #000000;
+    text-decoration: none;
 }
