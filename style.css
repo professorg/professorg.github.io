@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body
+{
+	background: #FFFFFF;
+}
+
+a:link
+{
+	font-weight:normal;
+	color:Navy;
+}
+a:visited
+{
+	font-weight:normal;
+	color:Purple;
+}
+a:hover
+{
+	font-weight:bold;
+	color:Navy;
+}
