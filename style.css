@@ -8,7 +8,7 @@ body
 a:link
 {
 	font-weight:normal;
-	color:navy;
+	color:#dddddd;
 }
 
 a:visited
@@ -25,5 +25,5 @@ a:hover
 
 p
 {
-	color:white;
+	color:#ffffff;
 }
