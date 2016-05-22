@@ -8,23 +8,22 @@ body
 a:link
 {
 	font-weight:normal;
-	color:Navy;
+	color:navy;
 }
 
 a:visited
 {
 	font-weight:normal;
-	color: Black;
+	color: #009900;
 }
 
 a:hover
 {
-	font-weight:Italic;
+	font-weight:bold;
 	color: #00aa00;
 }
 
 p
 {
-	color:White;
-}
+	color:white;
 }
