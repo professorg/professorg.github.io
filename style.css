@@ -28,14 +28,19 @@ p
 	color:#ffffff;
 }
 
-ul.nav
-{
+.nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 60px;
+    overflow: hidden;
+    background-color: #dddddd;
 }
 
-li a {
-    display: inline;
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    padding: 8px;
 }
