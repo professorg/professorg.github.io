@@ -29,16 +29,16 @@ p
 }
 
 .nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 }
 
 .nav li {
-    float: left;
-    border-right: 1px solid #bbb;
-    background-color: #dddddd;
+	float: left;
+	border-right: 1px solid #bbb;
+	background-color: #dddddd;
 }
 
 .nav li:last-child {
@@ -46,12 +46,12 @@ p
 }
 
 .nav li a {
-    display: block;
-    padding: 8px;
-    color: #000000;
-    text-decoration: none;
+	display: block;
+	padding: 8px;
+	color: #000000;
+	text-decoration: none;
 }
 
 .nav li a:hover {
-    background-color: #aaaaaa;
+	background-color: #aaaaaa;
 }
