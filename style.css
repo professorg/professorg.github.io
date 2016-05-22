@@ -13,10 +13,10 @@ a:link
 a:visited
 {
 	font-weight:normal;
-	color: Green;
+	color: Black;
 }
 a:hover
 {
 	font-weight:Italic;
-	color: Black;
+	color: #00aa00;
 }
