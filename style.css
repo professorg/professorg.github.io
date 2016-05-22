@@ -5,6 +5,7 @@ body
 	background-image:url(https://afremov.com/image.php?type=P&id=18106);
 	background-size: cover;
 	background-repeat: no-repeat;
+	color:#000000;
 }
 
 a:link
@@ -23,11 +24,6 @@ a:hover
 {
 	font-weight:normal;
 	color: #00aa00;
-}
-
-p
-{
-	color:#ffffff;
 }
 
 .nav {
