@@ -4,8 +4,8 @@ body
 {
 	background-image:url(https://afremov.com/image.php?type=P&id=18106);
 	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-repeat: no-repeat !important;
+	background-attachment: fixed !important;
 	color: #ffffff;
 }
 
@@ -56,5 +56,5 @@ a:hover
 }
 
 .nav li a:active {
-	background-color: #888888;
+	background-color: #777777;
 }
