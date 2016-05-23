@@ -53,3 +53,7 @@ a:hover
 .nav li a:hover {
 	background-color: #aaaaaa;
 }
+
+.nav li a:active {
+	background-color: #888888;
+}
