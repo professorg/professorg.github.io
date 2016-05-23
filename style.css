@@ -12,19 +12,19 @@ body
 a:link
 {
 	font-weight:normal;
-	color:#dddddd;
+	color:#00ff00;
 }
 
 a:visited
 {
 	font-weight:normal;
-	color: #009900;
+	color: #00aa00;
 }
 
 a:hover
 {
 	font-weight:normal;
-	color: #00aa00;
+	color: #00cc00;
 }
 
 .nav {
