@@ -6,8 +6,16 @@ body
 	background-size: cover;
 	background-repeat: no-repeat !important;
 	background-attachment: fixed !important;
-	padding: 0px auto;
+	padding: 0;
 	color: #ffffff;
+}
+
+h1 {
+	padding:0;
+}
+
+ul {
+	padding:0;
 }
 
 a:link
