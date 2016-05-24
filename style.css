@@ -58,3 +58,7 @@ a:hover
 .nav li a:active {
 	background-color: #777777;
 }
+
+.background {
+	background-color: rgba(200,200,200,100);
+}
