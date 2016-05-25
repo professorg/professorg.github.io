@@ -22,22 +22,29 @@ ul {
 	border: 0;
 }
 
-a:link
+a
 {
 	font-weight:normal;
+}
+
+a:link
+{
 	color:#00ff00;
 }
 
 a:visited
 {
-	font-weight:normal;
 	color: #00aa00;
 }
 
 a:hover
 {
-	font-weight:normal;
 	color: #00cc00;
+}
+
+a:active
+{
+	color: #006600;
 }
 
 .nav {
