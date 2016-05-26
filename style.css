@@ -79,6 +79,10 @@ a:active
 	background-color: #777777;
 }
 
+.nav.active {
+	background-color: #555555;
+}
+
 .background {
 	background-color: rgba(150,150,150,0.6);
 	display: inline-block;
