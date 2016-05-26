@@ -86,4 +86,7 @@ a:active
 .background {
 	background-color: rgba(200,200,200,0.8);
 	display: inline-block;
+	width: 0 auto;
+	padding: 25px;
+	margin: 10px;
 }
