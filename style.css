@@ -84,10 +84,6 @@ a:active
 }
 
 .background {
-	background-color: rgba(150,150,150,0.8);
-	display: inline-block;
-}
-
-.c:hover {
 	background-color: rgba(200,200,200,0.8);
+	display: inline-block;
 }
