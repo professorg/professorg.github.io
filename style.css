@@ -79,8 +79,8 @@ a:active
 	background-color: #777777;
 }
 
-.active li {
-	background-color: #555555;
+.active {
+	background-color: #777777 !important;
 }
 
 .background {
