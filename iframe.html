@@ -3,6 +3,11 @@
   <head>
   </head>
   <body>
-    <iframe src="."></iframe>
+    <iframe id="frame" src="."></iframe>
+    <script>
+      frame = document.getElementById("frame");
+      frame.style.width = window.innerWidth;
+      frame.style.height = window.innerHeight;
+    </script>
   </body>
 </html>
